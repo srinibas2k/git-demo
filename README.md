@@ -13,3 +13,7 @@ You all are having a good time!
 ## This was a feature 
 
 Yes, I made some changes to add some features
+
+## This was for a Pull request
+
+This is how pull request works

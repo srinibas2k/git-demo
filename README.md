@@ -8,3 +8,8 @@ Demo is here --> https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCode
 ## Sub Header
 
 You all are having a good time!
+
+
+## This was a feature 
+
+Yes, I made some changes to add some features
